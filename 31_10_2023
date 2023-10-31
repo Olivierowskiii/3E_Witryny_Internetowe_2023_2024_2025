@@ -12,9 +12,9 @@ Lp.   Wersja HTML   Element   Zamiennik
 9
 10
 Zad 2
-
-
-
+Pierwszą zmianą w HTML 5 są nowe znaczniki multimedialne, które pozwalają na umieszczanie elementów typu rysunki (<canvas>), 
+pliki wideo (<video>) czy audio (<audio>).
+Kolejną jest zastąpienie elementu <span> na <output>, <u /> oraz <strike />
 Zad 3
 
 
