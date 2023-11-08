@@ -1,4 +1,5 @@
 Karta Pracy 1
+
 Zad 1
 Lp.   Wersja HTML   Element   Zamiennik
 1     HTML 4.01     Applet    Object
@@ -11,46 +12,54 @@ Lp.   Wersja HTML   Element   Zamiennik
 8     HTML 5.0      U         CSS: text-decoration
 9     HTML 5.0      Font      CSS: color, font-family, font-size
 10    HTML 5.0      Center    CSS: text-align
+
 Zad 2
 Pierwszą zmianą w HTML 5 są nowe znaczniki multimedialne, które pozwalają na umieszczanie elementów typu rysunki (<canvas>), 
 pliki wideo (<video>) czy audio (<audio>).
 Kolejną jest zastąpienie elementu <span> na <output>, <u /> oraz <strike />
+
 Zad 3
-HTML 4.0- https://www.w3.org/TR/1998/REC-html40-19980424/
+HTML 4.0 - https://www.w3.org/TR/1998/REC-html40-19980424/
 
-HTML 4.01- https://www.w3.org/TR/html401/
+HTML 4.01 - https://www.w3.org/TR/html401/
 
-HTML 5.0- https://www.w3.org/TR/2011/WD-html5-20110405/
+HTML 5.0 - https://www.w3.org/TR/2011/WD-html5-20110405/
+
 Zadanie 1
 Witryna int. to zbiór stron, adresów URL i podstron, które są umieszczone na jednym serwerze i w ramach jednej domeny    https://www.belaty.com/
 Portal internetowy – witryna internetowa zawierająca usługi stanowiące „bramę” do Internetu. Serwis informacyjny zazwyczaj poszerzony jest o różnorodne funkcje internetowe.     https://www.facebook.com/
 Sklep internetowy – serwis internetowy dający możliwość kupowania i sprzedawania produktów przez Internet, jedna z form handlu elektronicznego.     https://allegro.pl/
 Blog tekstowy to rodzaj witryny internetowej, którą wyróżniają samodzielnie i specyficznie pisane wpisy, które układane są chronologicznie przez autora     https://tech-mate.pl/
 Wideoblog - Wideoblog – rodzaj bloga internetowego, którego zasadniczą treść stanowią pliki filmowe publikowane przez autora w kolejności chronologicznej.  https://www.youtube.com/
+
 Zadanie 2
 Wortal internetowy, ponieważ są to serwisy internetowe zawierające informacje z danej dziedziny.
+
 Zadanie 3
 błędnie
 błednie
 błędnie
 poprawnie
 poprawnie
+
 Zadanie 4
 HTML 2.0 - pierwsze wydanie w roku 1995 r.
 HTML 3.2 - zwiększenie ilości atrybutów w 1996 r.
 HTML 4.0 - obsługa wielu skryptów w 1997 r.
 HTML 5.0 dodanie znaczników multimedialnych w 2008 r.
+
 Test 1
 Zadanie 1
 A
 Zadanie 2
-B
+D
 Zadanie 3
 C
 Zadanie 4
-B
+C
 Zadanie 5
 A
+
 Zadanie Egzaminacyjne
 Visual Studio Code to darmowy edytor kodu źródłowego z podkreślaniuem składni dla wielu języków.
 WordPress - to bezpłatny i najpopularniejszy na całym świecie system zarządzania treścią stron internetowych
