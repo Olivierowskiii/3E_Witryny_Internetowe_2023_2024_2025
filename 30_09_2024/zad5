@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Szablon Strony</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .BANER {
+            background-color: #cc9966;
+            height: 100px;
+            text-align: center;
+            padding: 20px;
+            color: rgb(0, 0, 0);
+            font-size: 24px;
+        }
+        .container {
+            display: flex;
+            margin: 20px; 
+        }
+        .MENU {
+            background-color: #32CD32;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 16px;
+            color: white;
+            border-radius: 5px;
+            margin-right: 20px; 
+        }
+        .content {
+            background-color: #ffff33;
+            flex-grow: 1; 
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .footer {
+            background-color: #990033;
+            height: 60px;
+            text-align: center;
+            padding: 10px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
 
+    <div class="BANER">
+        BANER
+    </div>
+
+    <div class="container">
+        <div class="MENU">
+            MENU
+        </div>
+        <div class="content">
+            <h2>TREŚĆ STRONY</h2>
+        </div>
+    </div>
+
+    <div class="footer">
+        STOPKA
+    </div>
+
+</body>
+</html>
