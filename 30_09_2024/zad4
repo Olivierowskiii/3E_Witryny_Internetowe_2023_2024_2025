@@ -1,1 +1,5 @@
-
+em: Względna, jest jednostką miary, która odnosi się do rozmiaru czcionki elementu
+pc: Absolutna, to jednostka miary stosowana w typografii, która wynosi 16.67 punktów. Rzadko używana w web designie, ale bywa przydatna w kontekście druku. 1 pc to około 12.5 mm.
+pt: Absolutna, jest jednostką miary, która wynosi 1/72 cala. 
+%: Względna, jest jednostką, która określa wartość w odniesieniu do elementu 
+in: Absolutna, to jednostka miary, która odpowiada 2.54 cm. 
