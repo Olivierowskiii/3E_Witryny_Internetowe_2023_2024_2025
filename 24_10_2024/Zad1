@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OK4E</title>
+    <style>
+        body {
+            margin: 0; 
+        }
+        header {
+            background-color: #003366;
+            color: white; 
+            padding: 30px; 
+            text-align: center; 
+        }
+        main {
+            background-color: #d0f0c0;
+            color: rgb(0, 0, 0); 
+            text-align: center;
+            padding: 20px; 
+        }
+        footer {
+            background-color: #d3d3d3; 
+            color: black; 
+            text-align: center; 
+            padding: 10px; 
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>eueueu</h1>
+</header>
+
+<main>
+    <h2>eueueu</h2>
+</main>
+
+<footer>
+    <p>eueueu</p>
+</footer>
+
+</body>
+</html>
