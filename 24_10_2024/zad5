@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OK4E</title>
+</head>
+<body>
+
+    <div style="background-image: url('kot.jpg'); background-position: top left; height: 300px;"></div>
+    <div style="background-image: url('bruh.jpg'); background-position: center; height: 300px;"></div>
+    <div style="background-image: url('nuhuh.jpg'); background-position: bottom right; height: 300px;"></div>
+    
+</body>
+</html>
